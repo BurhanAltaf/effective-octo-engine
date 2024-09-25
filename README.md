@@ -1,2 +1,2 @@
-# effective-octo-engine
+# Lab Programs
 C programming 
